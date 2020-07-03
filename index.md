@@ -2,7 +2,7 @@
 
 ## Final Project
 
-[Here](/IE_360_Project_Report.html) is our Project Report.[Here](/Scripts.R) is our R code that is used in our project.
+[Here](/IE_360_Project_Report.html) is our Project Report. [Here](/Scripts.R) is our R code that is used in our project.
 
 ## Week 0 (February 17)
 
